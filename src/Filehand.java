@@ -14,6 +14,7 @@ public class Filehand {
 		for (File f3 : allfiles) {
 			System.out.println(f3);
 		}
+		System.out.println("git");
 	}
 
 }
